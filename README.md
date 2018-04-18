@@ -1,4 +1,4 @@
-# wdgj-order
+﻿# wdgj-order
 网店管家订单同步
 //   api/controller/Main.php
 $m = '@KEYmTypemSndGoodsTimeStamp@TIMESTAMPuCode@KEY';
@@ -14,3 +14,5 @@ define("API_UCODE","UCODE");
 
 
 类功能，具体实现业务数据逻辑
+
+配置api/config/database.php 对应订单信息库
